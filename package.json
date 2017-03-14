@@ -1,6 +1,6 @@
 {
   "name":"chat",
-  "node":"0.6.12",
+  "description": "chatapp",
   "website": "https://github.com/sumanthp/Node.js-Chat",
 
   "repository": "https://github.com/sumanthp/Node.js-Chat",
