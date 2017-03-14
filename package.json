@@ -1,9 +1,9 @@
 {
   "name":"chat",
   "node":"0.6.12",
-  "website": "https://github.com/socketio/chat-example",
+  "website": "https://github.com/sumanthp/Node.js-Chat",
 
-  "repository": "https://github.com/socketio/chat-example",
+  "repository": "https://github.com/sumanthp/Node.js-Chat",
 
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
 
@@ -19,7 +19,9 @@
 
     "realtime",
 
-    "websocket"
+    "websocket",
+    
+    "jade"
 
   ],
 
