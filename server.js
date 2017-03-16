@@ -1,6 +1,6 @@
 //	Customization
 
-var appPort = 16550;
+var appPort = 3000;
 
 // Librairies
 
